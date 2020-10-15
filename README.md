@@ -1,8 +1,3 @@
-# Teste Utilizando Node pegando dados de um Banco de Dados
+# Teste de Leitura de Arquivos HTML com Express
 
-## Passos
-
-1. Iniciado o Node no Repositório: `npm init`
-2. Instalando o Express no Projeto: `npm install express --save`
-3. Arquivo main definido foi o _index.js_
-4. Criado o arquivo _index.js_
+Para mais informações acesse este Link: [Entendendo Express](https://github.com/F4NT0/estudos-node/tree/master/entendendo-express)
